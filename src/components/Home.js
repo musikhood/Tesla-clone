@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Section from "./Section";
 
 const Container = styled.div`
-  height: 100vh;
+  height: 80vh;
 `;
 
 export default function Home() {
