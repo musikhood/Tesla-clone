@@ -17,6 +17,9 @@ const Wrap = styled.div`
   z-index: -1;
   position: relative;
   scroll-snap-align: start;
+  @media screen and (max-width: 768px) {
+    background-image: ${(props) => `url("${props.bgPhoneImage}")`};
+  }
 `;
 
 const ItemText = styled.div`
@@ -69,11 +72,12 @@ export default function Section({
   title,
   description,
   backgroundImg,
+  backgroundPhoneImg,
   leftBtnText,
   rightBtnText,
 }) {
   return (
-    <Wrap bgImage={backgroundImg}>
+    <Wrap bgImage={backgroundImg} bgPhoneImage={backgroundPhoneImg}>
       <Fade bottom>
         <ItemText>
           <h1>{title}</h1>
