@@ -1,22 +1,28 @@
 {
   "files": {
     "main.css": "/Tesla-clone/static/css/main.4b1a72dc.css",
-    "main.js": "/Tesla-clone/static/js/main.94b3e85f.js",
-    "static/media/solar-roof.jpg": "/Tesla-clone/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
-    "static/media/solar-panel.jpg": "/Tesla-clone/static/media/solar-panel.d7d441d74e34d37c2c00.jpg",
-    "static/media/model-y.jpg": "/Tesla-clone/static/media/model-y.30acb76aab6f760a753a.jpg",
-    "static/media/model-3.jpg": "/Tesla-clone/static/media/model-3.30651f796c26e128fa1b.jpg",
-    "static/media/model-x.jpg": "/Tesla-clone/static/media/model-x.25937b941a6599342671.jpg",
-    "static/media/model-s.jpg": "/Tesla-clone/static/media/model-s.b65171b9fc7d94857753.jpg",
+    "main.js": "/Tesla-clone/static/js/main.d4eded13.js",
+    "static/media/model-x.jpg": "/Tesla-clone/static/media/model-x.ce70282c68f0f8a172ea.jpg",
+    "static/media/model-3.jpg": "/Tesla-clone/static/media/model-3.372f67ca29f5537fdd31.jpg",
+    "static/media/model-s.jpg": "/Tesla-clone/static/media/model-s.3d2c584424e4960b7c13.jpg",
+    "static/media/solar-roof.jpg": "/Tesla-clone/static/media/solar-roof.8b5bc82ebf44e8c1f00d.jpg",
+    "static/media/model-x-mobile.jpg": "/Tesla-clone/static/media/model-x-mobile.309a1c9dbf6a8a937d76.jpg",
+    "static/media/model-3-mobile.jpg": "/Tesla-clone/static/media/model-3-mobile.ddaf80c95e5dad4e68a2.jpg",
+    "static/media/solar-panel.jpg": "/Tesla-clone/static/media/solar-panel.ca96bddb758d659d3686.jpg",
+    "static/media/model-s-mobile.jpg": "/Tesla-clone/static/media/model-s-mobile.59a904bd9b7b6d370dc5.jpg",
+    "static/media/model-y.jpg": "/Tesla-clone/static/media/model-y.e9d7d00db3f8bcebc371.jpg",
+    "static/media/model-y-mobile.jpg": "/Tesla-clone/static/media/model-y-mobile.c0a1a24112765476361c.jpg",
     "static/media/accessories.jpg": "/Tesla-clone/static/media/accessories.027ada94d343f5d81f6d.jpg",
+    "static/media/solar-panel-mobile.jpg": "/Tesla-clone/static/media/solar-panel-mobile.d47e2a3ae1d5cf66cdf5.jpg",
+    "static/media/accessories-mobile.jpg": "/Tesla-clone/static/media/accessories-mobile.9396e4116e3a5ed4facd.jpg",
     "static/media/logo.svg": "/Tesla-clone/static/media/logo.a7b59bc6aae7059ffd7b4a18a105eb72.svg",
     "index.html": "/Tesla-clone/index.html",
     "static/media/down-arrow.svg": "/Tesla-clone/static/media/down-arrow.9b52668fb01a76a29986dae3032abd3f.svg",
     "main.4b1a72dc.css.map": "/Tesla-clone/static/css/main.4b1a72dc.css.map",
-    "main.94b3e85f.js.map": "/Tesla-clone/static/js/main.94b3e85f.js.map"
+    "main.d4eded13.js.map": "/Tesla-clone/static/js/main.d4eded13.js.map"
   },
   "entrypoints": [
     "static/css/main.4b1a72dc.css",
-    "static/js/main.94b3e85f.js"
+    "static/js/main.d4eded13.js"
   ]
 }
