@@ -15,6 +15,7 @@ const Wrap = styled.div`
   align-items: center;
   z-index: -1;
   position: relative;
+  scroll-snap-align: start;
 `;
 
 const ItemText = styled.div`

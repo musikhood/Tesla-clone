@@ -27,7 +27,12 @@ const Menu = styled.div`
   a {
     font-weight: 600;
     text-transform: uppercase;
-    padding: 0 10px;
+    padding: 10px;
+    border-radius: 15px;
+    transition: all 0.2s ease-in-out;
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.1);
+    }
   }
 
   @media screen and (max-width: 1200px) {
@@ -41,7 +46,13 @@ const RightMenu = styled.div`
   a {
     font-weight: 600;
     text-transform: uppercase;
-    margin-right: 10px;
+    padding: 10px;
+    margin-right: 7px;
+    border-radius: 15px;
+    transition: all 0.2s ease-in-out;
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.1);
+    }
   }
 `;
 

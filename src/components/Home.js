@@ -3,7 +3,10 @@ import styled from "styled-components";
 import Section from "./Section";
 
 const Container = styled.div`
-  height: 80vh;
+  height: 100vh;
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+  overflow-x: hidden;
 `;
 
 export default function Home() {
